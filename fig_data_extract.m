@@ -1,4 +1,4 @@
-%% Extract data from figure without accompning matlab code
+%% Extract data from MATLAB figure (.fig) file without originating code
 % https://uk.mathworks.com/matlabcentral/answers/100687#answer_110036
 
 open('...\example.fig');
